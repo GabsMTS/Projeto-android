@@ -27,7 +27,7 @@
 }
 
 body {
-    background-color: var(--cor0);
+    background-color: white;
     font-family: var(--font-padrão);
 }
 
@@ -126,7 +126,8 @@ main h1 {
     color: var(--cor4);
     font-family: var(--font-android);
     font-weight: normal;
-    font-size: 1.8em;
+    font-size: 1.3em;
+    text-align: center;
 }
 
 main h2 {
